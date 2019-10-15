@@ -6,7 +6,7 @@ spring:
   mail:
     host: smtp.sendgrid.net
     port: 587
-    username: "環境変数もしくはオプションを使用すること"
+    username: apikey
     password:  "環境変数もしくはオプションを使用すること"
     default-encoding: "UTF-8"
     properties:
